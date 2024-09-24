@@ -3,7 +3,7 @@ trong tương lai có thể mình sẽ thêm hoặc bớt 1 số thứ nếu có
 
 - Config này khá nhẹ và sẽ không ăn nhiều tài nguyên của máy.
 
-- Mình KHÔNG TỰ LÀM GÌ CẢ chủ yếu là di copy và paste thôi 
+- ### Mình KHÔNG TỰ LÀM GÌ CẢ chủ yếu là di copy và paste thôi 
 
 ## Các plugin dùng với hyprland 
 - wlogout
