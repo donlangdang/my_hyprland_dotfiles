@@ -15,6 +15,7 @@ trong tương lai có thể mình sẽ thêm hoặc bớt 1 số thứ nếu có
   - hyprpaper
 ## Các app và package cần cài:
 - File manager: COSMIC-files(cài này mình cài song song với COSMC DE nên dùng file manager của nó luôn đc cái tiện chỉnh đc màu bằng COSMIC-setting(cài này phải thoát hyprland vô COSMIC mới chỉnh màu được :))))) ) anh em có thể tìm file manager khác để dùng nha
+- file manager trên terminal thì dùng Yazi nhé
 - Gõ tiếng việt mình dùng: fcitx5
 - Bluetooth manager: blueman và blueman-manager
     - Arch linux thì cài theo linh này nha: https://wiki.archlinux.org/title/Blueman
